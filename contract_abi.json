@@ -1,0 +1,14 @@
+[
+  {
+    "inputs": [
+      {"name": "imageHash", "type": "string"},
+      {"name": "metadataHash", "type": "string"},
+      {"name": "predictedStage", "type": "uint8"},
+      {"name": "confidence", "type": "uint8"}
+    ],
+    "name": "storePrediction",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
